@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Git-Go</string>
+    <string name="search_for_some_users">Start typing to search</string>
+    <string name="search_icon_title">Search</string>
 </resources>
